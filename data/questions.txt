@@ -1,0 +1,97 @@
+Ce pays est-il un pays slave?:0
+Ce pays faisait il partit du bloc de l'Est pendant la guerre froide (au moins partiellement) ?:1
+Ce pays est-il une micro-nation?:00
+Ce pays est-il dans les Balkans?:01
+Ce pays borde-t-il la mer Méditerranée?:10
+Ce pays borde-t-il la mer Baltique:11
+Ce pays est-il plus au Nord que la ville de Lille?:000
+Ce pays est-il enclavé dans le territoire Italien?:001
+Ce pays est-il frontalier de la Lituanie?:010
+Ce pays est-il frontalier de l'Albanie?:011
+Ce pays est-il voisin avec l'Allemagne?:100
+Ce pays est-il une ile?:101
+Ce pays a-t-il accès à un littoral?:110 Ce pays est-il un pays balte?:111
+Ce pays est-il enclavé?:0000
+Ce pays est-il situé sur une ile?:0001
+Ce pays possède-t-il une frontière avec la France?:0010
+Ce pays est-il une théocratie?:0011
+NNNN:0100
+Ce pays s'étend il exclusivement en Europe?:0101
+Ce pays a-t-il un accès direct à la mer Méditerranée?:0110
+Ce pays est-il membre de l'ONU?:0111
+Ce pays n'a-t-il qu'un seul pays frontalier?:1000
+Ce pays possède-t-il un littoral?:1001
+Ce pays a-t-il accès aux Pyrénées?:1010
+Le drapeau de ce pays comporte-t-il une croix?:1011
+Ce pays est-il frontalier de la Pologne?:1100
+Ce pays borde-t-il la mer Noire?:1101
+Ce pays parle-t-il allemand?:1110
+Ce pays commence-t-il par la lettre L?:1111
+Ce pays est-il constitué de cantons?:00001
+Ce pays possède-t-il une frontière terrestre?:00011
+Ce pays possède-t-il un port?:00101
+Ce pays possède-t-il un littoral?:01111
+Ce pays est-il frontalier de la Russie?:10000
+Ce pays est-il sur une ile?:10001
+Ce pays est-il frontalier de la France?:10010
+Ce pays est-il un pays scandinave?:10011
+Ce pays comporte-t-il 2 micro-nations enclavées au sein de son territoire?:10100
+Ce pays possède-t-il l'arme nucléaire?:10101
+La capitale de ce pays est-elle Prague?:11001
+Ce pays est-il frontalier de la Bosnie-Herzégovine?:11010
+Ce pays a-t-il pour langue principale une langue latine?:11011
+Ce pays est-il frontalier de la Pologne?:11111
+Ce pays a-t-il pour capitale Amsterdam?:100110
+Le pays auquel vous pensiez est l'Albanie:0000000
+Le pays auquel vous pensiez est la Moldavie:0000100
+Le pays auquel vous pensiez est la Suisse:0000110
+Le pays auquel vous pensiez est la Norvège:0001000
+Le pays auquel vous pensiez est l'Islande:0001100
+Le pays auquel vous pensiez est le Royaume-Uni:0001110
+Le pays auquel vous pensiez est le Liechtenstein:0010000
+Le pays auquel vous pensiez est Andorre:0010100
+Le pays auquel vous pensiez est Monaco:0010110
+Le pays auquel vous pensiez est Saint-Marin:0011000
+Le pays auquel vous pensiez est le Vatican:0011100
+Le pays auquel vous pensiez est l'Ukraine:0100000
+Le pays auquel vous pensiez est la Russie:0101000
+Le pays auquel vous pensiez est la Biélorussie:0101100
+Le pays auquel vous pensiez est la Serbie:0110000
+Le pays auquel vous pensiez est la Bosnie-Herzégovine:0110100
+Le pays auquel vous pensiez est le Kosovo:0111000
+Le pays auquel vous pensiez est la Macédoine du Nord:0111100
+Le pays auquel vous pensiez est le Monténégro:0111110
+Le pays auquel vous pensiez est la Suède:1000000
+Le pays auquel vous pensiez est la Finlande:1000010
+Le pays auquel vous pensiez est le Portugal:1000100
+Le pays auquel vous pensiez est l'Irlande:1000110
+Le pays auquel vous pensiez est l'Autriche:1001000
+Le pays auquel vous pensiez est le Luxembourg:1001010
+Le pays auquel vous pensiez est la Belgique:1001100
+Le pays auquel vous pensiez est les Pays-Bas:1001101
+Le pays auquel vous pensiez est le Danemark:1001110
+Le pays auquel vous pensiez est la Grèce:1010000
+Le pays auquel vous pensiez est l'Italie:1010010
+Le pays auquel vous pensiez est l'Espagne:1010100
+Le pays auquel vous pensiez est la France:1010110
+Le pays auquel vous pensiez est Chypre:1011000
+Le pays auquel vous pensiez est Malte:1011100
+Le pays auquel vous pensiez est la Hongrie:1100000
+Le pays auquel vous pensiez est la Slovaquie:1100100
+Le pays auquel vous pensiez est la République Tchèque:1100110
+Le pays auquel vous pensiez est la Slovénie:1101000
+Le pays auquel vous pensiez est la Croatie:1101010
+Le pays auquel vous pensiez est la Bulgarie:1101100
+Le pays auquel vous pensiez est la Roumanie:1101110
+Le pays auquel vous pensiez est la Pologne:1110000
+Le pays auquel vous pensiez est l'Allemagne:1110100
+Le pays auquel vous pensiez est l'Estonie:1111000
+Le pays auquel vous pensiez est la Lettonie:1111100
+Le pays auquel vous pensiez est la Lituanie:1111110
+Le pays auquel vous pensiez est: Arménie
+sa capitale est-ellle paris?:1100100
+le pays se situe en amerrique?:0000000
+hhhh:0010000
+:1000100
+c'est quel pays?:1110000
+:1100000
